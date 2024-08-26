@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Faezeh. I am a Ph.D. candidate working in SEFCOM lab at Arizona State University. I am doing my PhD under supervision of Dr. Adam Doupé with focus on Web Security.
+My research interests include automated vulnerability analysis, web security, browser privacy, fraud detection and hacking competitions.
